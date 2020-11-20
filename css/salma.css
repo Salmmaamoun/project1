@@ -1,0 +1,157 @@
+*{
+    font-family:cursive;
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-image:url("2903.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center ;
+    text-align: center;
+    background-attachment:fixed;
+    text-align: center;
+   padding:50px }
+ 
+ .ph11{
+  margin-right: 100px;
+   width:100%;
+ }
+ h1{
+  letter-spacing: 5px;
+ }
+ h6{
+  margin-bottom: 20px
+ }
+ h2{
+  padding-top:20px;
+  background: white
+ }
+ .ll{
+  width: 10px;
+  height: 2px;
+  background: grey
+ }
+ .part3{
+ background: white ;
+ padding-top:20px;
+ padding-bottom: 20px;
+ }
+ .part2{
+   background: #DDD;
+   padding: 50px
+ }
+  .phs{
+  background: #333;
+  padding: 50px 50px 50px 50px;
+  text-align: center;
+
+ }
+ .ww{
+ color: white;
+ background: black;
+ border-bottom: 3px;
+ height: 70px;
+ width: 800px;
+padding-top:  50px ;
+padding-bottom: 0;
+  margin-left: 100px
+}
+
+.part4{
+  color: grey;
+ background:black;
+ border-bottom: 3px;
+  height: 70px;
+   width:800px;
+   margin-left: 100px
+  }
+   .ph6{
+
+  width:100%;}
+  
+  .dd{
+ background:grey;
+padding-bottom: 30px;
+ padding-top: 30px;
+}
+.part5{
+  background:grey;
+  color: #DDD;
+  padding-bottom: 30px;
+  
+}
+.ph7{
+
+  width:100%;
+
+}
+.kk{
+ 
+ background: #333;
+  color:white;
+   padding-top:20px 
+ }
+.part6{
+  background: #333;
+  color:grey;
+    padding-top: 20px;
+  padding-bottom:20px 
+
+}
+.oo{
+  color:black;
+  background:#F0F8FF;
+  padding-top: 20px;
+  border: 5px
+  
+}
+.part7{
+  color:grey;
+  background:#F0F8FF;
+  padding-top: 20px;
+  padding-bottom:20px 
+}
+.ph3 {
+ float:left;
+ display: inline-block;
+ width: 400px;
+ padding-right:100px 
+}
+.ph2{
+ float:left;
+ display: inline-block;
+ width: 400px;
+padding-left:100px  
+ 
+ 
+}
+.ph4{
+ float:right;
+ display: inline-block;
+ width: 400px;
+ padding-right:163px 
+}
+.ph5{
+ float:right;
+ display: inline-block;
+ width: 400px;
+ padding-left:100px 
+}
+.vv{
+ clear: both
+}
+.hh{
+ text-align: center;
+}
+.bb{
+width: 50px;
+height: 40px;
+color:grey
+}
+.tt{
+ margin-bottom: 30px
+}
+
+ 
